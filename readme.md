@@ -164,24 +164,13 @@ src/
 - First-person camera may clip through walls at certain angles
 - Demogorgons in cheat mode can occasionally get stuck in corners
 
-## 🔮 Future Enhancements
 
-- [ ] Sound effects and background music
-- [ ] Multiple difficulty levels
-- [ ] Additional maze layouts
-- [ ] Power-ups and special abilities
-- [ ] Multiplayer mode
-- [ ] Leaderboard system
+## 🤝 Contributors
 
-## 🤝 Contributing
+Project conducted and documented by
+- [@faranontheway](https://github.com/faranontheway)
+- [@mourinpixels](https://github.com/mourinpixels)
 
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📜 License
 
