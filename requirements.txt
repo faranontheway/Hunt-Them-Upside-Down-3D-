@@ -1,0 +1,45 @@
+PyOpenGL==3.1.7
+PyOpenGL-accelerate==3.1.7
+```
+
+**Create .gitignore:**
+1. Click **New File** icon
+2. Name it `.gitignore`
+3. Copy and paste the .gitignore content from my first artifact
+
+Your structure should look like:
+```
+Your-Project-Folder/
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── src/
+│   └── Hunt_them_upside_down.py
+└── docs/
+```
+
+### Step 4: Initialize Git Repository
+
+1. Click the **Source Control** icon in left sidebar (looks like a branch)
+   - Or press `Ctrl+Shift+G`
+
+2. You'll see **"Initialize Repository"** button
+   - Click it
+
+3. VS Code will ask which folder to initialize - select your project root folder
+
+### Step 5: Stage and Commit Files
+
+1. In **Source Control** panel, you'll see all your files listed under "Changes"
+
+2. **Stage all files:**
+   - Hover over "Changes" heading
+   - Click the **"+"** icon that appears
+   - Or click **"+"** next to each individual file
+
+3. **Commit files:**
+   - Type a commit message in the text box at top: 
+```
+     Initial commit: Hunt Them Upside Down game
+
+     
